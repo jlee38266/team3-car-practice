@@ -1,4 +1,4 @@
-package org.team3_study.section01.car;
+package org.team3_study.section01.teammember;
 
 public abstract class TeamMember {
 
